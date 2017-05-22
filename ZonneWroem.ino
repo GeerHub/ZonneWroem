@@ -1,4 +1,4 @@
-//#include <LiquidCrystal.h>
+#include <LiquidCrystal.h>
 
 const int sensorPin = A0;
 const float baselineTem = 20.0;
